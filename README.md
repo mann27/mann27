@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **mannshah2712@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann27&layout=compact" alt="mann27" width="300" height="150" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann27&layout=compact" alt="mann27" width="350" height="150" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mann27&show_icons=true" alt="mann27" width="350" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mann27&show_icons=true" alt="mann27" width="450" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/mannshah2712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mannshah2712" height="30" width="30" /></a>
