@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mann27" alt="mann27" /> </p>
 
-- 🔭 I’m currently working on [news app](https://github.com/mann27/News24x7-Client)
-
 - 📫 How to reach me **mannshah2712@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann27&layout=compact" alt="mann27" width="350" height="150" /></p>
